@@ -1,5 +1,5 @@
-# virtual_mouse
-# 🖐️ Virtual Mouse using Hand Gestures
+# Webcam_mouse
+# 🖐️ Webcam Mouse using Hand Gestures
 
 This project allows you to control your computer mouse using hand gestures through your webcam.
 It uses MediaPipe for real-time hand tracking, OpenCV for video capture and visualization, and PyAutoGUI & Pynput for controlling mouse actions such as movement, clicks, and screenshots.
